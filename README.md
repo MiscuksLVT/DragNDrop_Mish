@@ -7,8 +7,8 @@ Projekts demonstre Drag and drop funkcionalitati. Speles merkis ir pec iespeja i
 - [x] Iespeja objektu novietot briva vieta uz kartes
 - [x] Iespeja objektu novietot nepareizaja laukuma
 - [x] Iespeja objektu novietot pareizaja laukuma
-- [ ] Mainit objekta rotacuja ar Z
-- [ ] Mainit objekta platumu pa X
-- [ ] Mainit objekta augstumu pa Y
+- [x] Mainit objekta rotacuja ar Z
+- [x] Mainit objekta platumu pa X
+- [x] Mainit objekta augstumu pa Y
 - [x] Audio efekti
 - [ ] 
